@@ -6,6 +6,8 @@ Si desea que publiquemos un servicio, haga su pull request, o pídalo a través 
 
 ### [Servicios de Ubicaciones](ubicaciones.md)
 ### [Servicios de Transporte](transporte.md) 
+### [Geoservicios Web](http://sig.montevideo.gub.uy/content/geoservicios-web)
+
 
 
 
